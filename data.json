@@ -1,0 +1,397 @@
+[
+   [
+      "Juegos",
+      "Todo Juegos",
+      {
+         "icon": "icon fa-sharp fa-solid fa-gamepad"
+      },
+      [
+         [
+            "Juegos de Bar",
+            "Todo Juesgos de Bar",
+            [
+               ["Billares"],
+               ["Futbolines"],
+               ["Maquinas tragaperras"],
+               ["Pinballs"],
+               ["Dardos"]
+            ]
+         ],
+         [
+            "Jugetes",
+            "Todo Juguetes",
+            [
+               ["Muñecas"],
+               ["Juagos de mesa"],
+               ["Lego"],
+               ["Triciclos"],
+               ["Playmobil"],
+               ["Peluches"]
+            ]
+         ],
+         [
+            "Videoconsolas",
+            "Todo Videoconsolas",
+            [
+               [
+                  "consolas",
+                  "Todo consolas",
+                  [
+                     "XBox",
+                     "XBox 360",
+                     "XBox One",
+                     "PSP",
+                     "PS Vita",
+                     "Nintendo",
+                     "Gameboy"
+                  ]
+               ],
+               [
+                  "Videojuegos",
+                  "Todo Videojuegos",
+                  [
+                     "Juegos de XBox",
+                     "Juegos de PlayStation",
+                     "Juegos de PSP",
+                     "Juegos de PC"
+                  ]
+               ],
+               ["Accesorios"]
+            ]
+         ],
+         [
+            "Otros",
+            "Todo Otros",
+            [
+               ["Ajedrez"],
+               ["Otros"]
+            ]
+         ]
+      ]
+   ],
+   [
+      "Telefonia",
+      "Todo Telefonia",
+      {
+         "icon": "icon fa-solid fa-mobile-screen-button"
+      },
+      [
+         [
+            "Moviles",
+            "Todo Moviles",
+            [
+               [
+                  "Telefonos Moviles",
+                  "Todo Telefonos Moviles",
+                  [
+                     "Alcatel",
+                     "Blackberry",
+                     "HTC",
+                     "Huawei",
+                     "iPhone",
+                     "LG",
+                     "Motorola"
+                  ]
+               ],
+               ["Manos Libre"],
+               ["Fundas"],
+               ["Cables"],
+               ["Cargadores"]
+            ]
+         ],
+         ["Smartwatch"],
+         ["Telefonos inalambricos"],
+         ["Fax"],
+         ["Centralitas"],
+         ["Contestadores"]
+      ]
+   ],
+   [
+      "Inmobiliaria",
+      "Todo Inmobiliaria",
+      {
+         "icon": "icon fa-solid fa-house-chimney"
+      },
+      [
+         [
+            "Viviendas",
+            "Todo Viviendas",
+            [
+               [
+                  "Pisos",
+                  "Todo Pisos",
+                  [
+                     "Venta de Pisos",
+                     "Alquiler de Pisos",
+                     "Compartir Piso"
+                  ]
+               ],
+               [
+                  "Apartamentos",
+                  "Todo Apartamentos",
+                  [
+                     "Alquiler Apartamentos",
+                     "Veneta Apartamentos"
+                  ]
+               ],
+               [
+                  "Casas",
+                  "Todo Casas",
+                  [
+                     "Alquiler de Casas",
+                     "Venta de Casas"
+                  ]
+               ],
+               ["Alquiler Vacaciones"]
+            ]
+         ],
+         [
+            "Locales Comerciales",
+            "Todo Locales Comerciales",
+            [
+               ["Alquiler de Locales"],
+               ["Venta de Locales"]
+            ]
+         ],
+         [
+            "Oficinas",
+            "Todo Oficinas",
+            [
+               ["Alquiler de Oficinas"],
+               ["Venta de Oficinas"]
+            ]
+         ],
+         [
+            "Naves Industriales",
+            "Todo Naves Industriales",
+            [
+               ["Alquiler de Naves"],
+               ["Venta de Naves"]
+            ]
+         ],
+         [
+            "Terrenos",
+            "Todo Terrenos",
+            [
+               [
+                  "Fincas Rusticas",
+                  "Todo Fincas Rusticas",
+                  [
+                     "Alquiler de Fincas",
+                     "Venta de Fincas"
+                  ]
+               ],
+               ["Parcelas Rusticas"],
+               ["Solares"]
+            ]
+         ]
+      ]
+   ],
+   [
+      "Formacion y Libros",
+      "Todo Formacion y Libros",
+      {
+         "icon": "icon fa-solid fa-book"
+      },
+      [
+         [
+            "Clases Particulares",
+            "Todo Clases Particulares",
+            [
+               ["Primaria/Secundaria"],
+               ["Universidad"],
+               ["Idiomas"],
+               ["Otros"]
+            ]
+         ],
+         [
+            "Libros y mas",
+            "Todo Libros y mas",
+            [
+               [
+                  "Revistas Comics",
+                  "Todo Revistas Comics",
+                  [
+                     "Revistas",
+                     "Comics"
+                  ]
+               ],
+               ["Libros"],
+               ["Libros de Texto"],
+               ["Novelas"]
+            ]
+         ],
+         ["Oposiciones"],
+         ["Autoescuelas"]
+      ]
+   ],
+   [
+      "Imagen y Sonido",
+      "Todo Imagen y Sonido",
+      {
+         "icon": "icon fa-solid fa-camera"
+      },
+      [
+         [
+            "Fotografia",
+            "Todo Fotografia",
+            [
+               [
+                  "Camaras Digitales",
+                  "Todo Camaras Digitales",
+                  [
+                     "Camaras Reflex Digitales",
+                     "Camaras Compactas Digitales"
+                  ]
+               ],
+               ["Flashes"],
+               ["Otros"]
+            ]
+         ],
+         [
+            "Imagen",
+            "Todo Imagen",
+            [
+               [
+                  "Televisores",
+                  "Todo Televisores",
+                  [
+                     "LED",
+                     "Plasma",
+                     "Otros Televisores",
+                     "Smart TV"
+                  ]
+               ],
+               [
+                  "Peliculas",
+                  "Todo Peliculas",
+                  [
+                     "VHS",
+                     "DVD",
+                     "Blu Ray",
+                     "Otros"
+                  ]
+               ],
+               ["Reproductores DVD"],
+               ["Videocamaras"],
+               ["Maquinas de Escribir"]
+            ]
+         ],
+         [
+            "Sonido",
+            "Todo Sonido",
+            [
+               [
+                  "Equipos de Sonido",
+                  "Todo Equipos de Sonido",
+                  [
+                     "Altavoces",
+                     "Tocadiscos",
+                     "Amplificadores",
+                     "Otros"
+                  ]
+               ],
+               ["Auriculares"],
+               ["Grabadoras de Voz"]
+            ]
+         ],
+         [
+            "Musica",
+            "Todo Musica",
+            [
+               [
+                  "Cds Cintas y Vinilos",
+                  "Todo Cds Cintas y Vinilos",
+                  [
+                     "Casetes",
+                     "Vinilos",
+                     "CDs"
+                  ]
+               ],
+               [
+                  "Instrumentos Musicales",
+                  "Todo Instrumentos Musicales",
+                  [
+                     "Bajos",
+                     "Flautas",
+                     "Baterias",
+                     "Otros"
+                  ]
+               ],
+               ["Partituras"]
+            ]
+         ]
+      ]
+   ],
+   [
+      "Informatica",
+      "Todo Informatica",
+      {
+         "icon": "icon fa-sharp fa-solid fa-desktop"
+      },
+      [
+         [
+            "Componetes",
+            "Todo Componetes",
+            [
+               ["Discos Duros"],
+               ["Placas Base"],
+               ["Targetas Graficas"],
+               ["Otros"]
+            ]
+         ],
+         ["Ordenadores"],
+         ["Mac"],
+         ["PDA"],
+         ["Impresoras"]
+      ]
+   ],
+   [
+      "Deportes y nautica",
+      "Todo Deportes y nautica",
+      {
+         "icon": "icon fa-solid fa-bicycle"
+      },
+      [
+         [
+            "Deportes",
+            "Todo Deportes",
+            [
+               ["Beisobl"],
+               ["Balocesto"],
+               ["Atletismo"],
+               ["Golf"]
+            ]
+         ],
+         [
+            "Embarcadores",
+            "Todo Embarcadores",
+            [
+               [
+                  "Barcos",
+                  "Todo Barcos",
+                  [
+                     "Lanchas Neumaticas",
+                     "Barcos de Motor",
+                     "Yates",
+                     "Veleros",
+                     "Barcos de Pesca"
+                  ]
+               ],
+               [
+                  "Amarres",
+                  "Todo Amarres",
+                  [
+                     "Alquiler de Amarres",
+                     "Venta de Amarres"
+                  ]
+               ],
+               ["Paraguas"],
+               ["Motos de Agua"],
+               ["Surf"],
+               ["Otros"]
+            ]
+         ]
+      ]
+   ]
+]
